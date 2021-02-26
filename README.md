@@ -1,10 +1,17 @@
-### Hi there 👋
+### Hi，很高兴见到你~
+我是GT，这里托管着我一些开源的项目，当然也包含了刚接触编程时的点滴。  
+最近有一个比较有意思的想法，预计在3月份进行开源，敬请期待！
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=GT-ZhangAcer&show_icons=true&hide_title=true&theme=tokyonight" />
+
 
 <!--
 **GT-ZhangAcer/GT-ZhangAcer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+- :orange_book: Focusing on Swift & iOS
+- :hammer: Creator of applications and frameworks
+- :ram: Founder the ObjCCN
+- :meat_on_bone: Meat lover
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
