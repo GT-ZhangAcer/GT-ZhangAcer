@@ -1,8 +1,11 @@
-### Hi，很高兴见到你~
-我是GT，这里托管着我一些开源的项目，当然也包含了刚接触编程时的点滴。  
-最近有一个比较有意思的想法，预计在3月份进行开源，敬请期待！
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=GT-ZhangAcer&show_icons=true&hide_title=true&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=GT-ZhangAcer&show_icons=true&hide_title=true&theme=tokyonight" />  
+
+### Hi，很高兴见到你~
+我是GT，这里托管着我一些开源的项目  
+当然也包含了刚接触编程时的点滴。  
+最近有一个比较有意思的想法，  
+预计在3月份进行开源，敬请期待！
 
 
 <!--
