@@ -4,7 +4,7 @@
 ### Hi，很高兴见到你~
 我是GT，这里托管着我一些开源的项目  
 当然也包含了刚接触编程时的点滴。  
-
+欢迎加入[QPT软件包家族](https://github.com/QPT-Family)
 
 <!--
 **GT-ZhangAcer/GT-ZhangAcer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
